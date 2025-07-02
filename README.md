@@ -13,7 +13,7 @@
 ## 🔐 Privacy Policy
 
 ZipPro does **not** collect any user data. All compression and extraction is handled **locally** on your device.  
-📄 [Read full Privacy Policy](https://github.com/itminh/zipPro/blob/main/README.md)
+📄 [Read full Privacy Policy](https://github.com/itminh/zipPro/blob/main/PRIVACY_POLICY.md)
 
 ## 📬 Support
 
